@@ -1,0 +1,18 @@
+Title : Reflections
+
+I found it usefeul to learn about
+1. FC in windows (File Compare)
+2. diff -u in Git Bash
+
+3. git diff commit id 1 commit id 2
+4. git log --stat
+
+5. git clone ur
+6. git checkout  - not same as svn checkout - more sort of revert to this versin
+
+7. git init - to start a repository  (or make any directorz a git repo)
+
+8. git status
+
+9. git add filename - adds files to staging area
+
