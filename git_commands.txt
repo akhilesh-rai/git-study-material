@@ -14,7 +14,7 @@ I found it usefeul to learn about
 
 8. git status - files to be commited (run after afit add)
 
-9. git add filename - adds files to staging area
+9. git add filename - adds files to staging area - similar to svn add
 
-10. git commit - open editor
+10. git commit - open editors (i for insert , esc and then :wq)
 
