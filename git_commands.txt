@@ -12,7 +12,9 @@ I found it usefeul to learn about
 
 7. git init - to start a repository  (or make any directorz a git repo)
 
-8. git status
+8. git status - files to be commited (run after afit add)
 
 9. git add filename - adds files to staging area
+
+10. git commit - open editor
 
