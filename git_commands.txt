@@ -1,4 +1,4 @@
-Title : Reflections
+LESSON 1
 
 I found it usefeul to learn about
 1. FC in windows (File Compare)
@@ -6,8 +6,9 @@ I found it usefeul to learn about
 
 3. git diff commit id 1 commit id 2
 4. git log --stat
-
-5. git clone ur
+-----------------------------------------------------------------------------------------------
+LESSON 2 
+5. git clone url
 6. git checkout  - not same as svn checkout - more sort of revert to this versin
 
 7. git init - to start a repository  (or make any directorz a git repo)
@@ -20,5 +21,7 @@ I found it usefeul to learn about
 
 11. git diff - diffs files btw staging area and working directory
 
-12. git diff --staged - diffs btw staged and repo
+12. git diff --staged - diffs btw staged and repository (local)
+
+working directory  - staging area -  repository 
 
